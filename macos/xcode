@@ -1,0 +1,3 @@
+help metro run react native on ios device:
+sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+
